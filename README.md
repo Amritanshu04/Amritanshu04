@@ -1,4 +1,4 @@
-![logo](https://github.com/Amritanshu04/Amritanshu04/blob/main/image.png)
+![logo](https://github.com/Amritanshu04/Amritanshu04/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Amritanshu Ranjan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
